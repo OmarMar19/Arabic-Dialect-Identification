@@ -1,0 +1,31 @@
+Abbriviation,English name,Arabic name,Abbriviation,English name,Arabic name,Abbriviation,English name,Arabic name
+,Maghreb,المغاربية,MA,Morocco,المغرب,RAB,Rabat,الرباط
+,Maghreb,المغاربية,MA,Morocco,المغرب,FES,Fes,فاس
+,Maghreb,المغاربية,DZ,Algeria,الجزائر,ALG,Algiers,الجزائر
+,Maghreb,المغاربية,DZ,Algeria,الجزائر,ANB,Annaba,عنابة
+,Maghreb,المغاربية,TN,Tunisia,تونس,TUN,Tunis,تونس
+,Maghreb,المغاربية,TN,Tunisia,تونس,SFX,Sfax,صفاقس
+,Maghreb,المغاربية,LY,Libya,ليبيا,TRI,Tripoli,طرابلس
+,Maghreb,المغاربية,LY,Libya,ليبيا,BEN,Benghazi,بنغازي
+,Nile_Basin,حوض النيل,EG,Egypt,مصر,CAI,Cairo,القاهرة
+,Nile_Basin,حوض النيل,EG,Egypt,مصر,ALX,Alexandria,الاسكندرية
+,Nile_Basin,حوض النيل,EG,Egypt,مصر,ASW,Aswan,أسوان
+,Nile_Basin,حوض النيل,SD,Sudan,السودان,KHA,Khartoum,الخرطوم
+,Levant,الشامية,PL,Palestine,فلسطين,JER,Jerusalem,القدس
+,Levant,الشامية,PL,Palestine,فلسطين,GZA,Gaza,غزة
+,Levant,الشامية,JO,Jordan,الأردن,AMM,Amman,عمّان
+,Levant,الشامية,JO,Jordan,الأردن,SAL,Salt,السلط
+,Levant,الشامية,LB,Lebanon,لبنان,BEI,Beirut,بيروت
+,Levant,الشامية,SY,Syria,سوريا,DAM,Damascus,دمشق
+,Levant,الشامية,SY,Syria,سوريا,ALE,Aleppo,حلب
+,Iraqi,خليجي,IQ,Iraq,العراق,MOS,Mosul,الموصل
+,Iraqi,خليجي,IQ,Iraq,العراق,BAG,Baghdad,بغداد
+,Iraqi,خليجي,IQ,Iraq,العراق,BAS,Basra,البصرة
+,Gulf,خليجي,QA,Qatar,قطر,DOH,Doha,الدوحة
+,Gulf,خليجي,AE,Emirates,الإمارات,,,
+,Gulf,خليجي,OM,Oman,عُمان,MUS,Muscat,مسقط
+,Gulf,خليجي,SA,Saudi Arabia,السعودية,RIY,Riyadh,الرياض
+,Gulf,خليجي,SA,Saudi Arabia,السعودية,JED,Jeddah,جدة
+,Gulf,خليجي,KW,Kawait,الكويت,,,
+,Gulf,خليجي,BH,Bahrin,البحرين,,,
+,Yemen,يمني,YE,Yemen,اليمن,SAN,Sana’a,صنعاء
